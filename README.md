@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welkom!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorZwart)](https://git.io/streak-stats)
 
 
 <!--
